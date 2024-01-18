@@ -67,6 +67,7 @@ ul li {
     background-position: center;
     background-size:cover ;
     box-shadow:10px 10px  50px rgb(179, 175, 175) ;
+    padding-top:20px;
 }
 .flex-item p{
     background-color: chocolate;
